@@ -1,11 +1,11 @@
 # Site settings
-author: Zachary Lynch
-title: 
+author: Zach Lynch
+title: Zach's Coding Corner
 header-img: img/home-bg.png
 email: zachary.lynch1337@gmail.com
-copyright_name: Zachary Lynch
+copyright_name: Zach Lynch
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A place of learning, experimenting, and fun!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  ZachLynch123
