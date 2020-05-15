@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why  become a Software Engineer"
-date:       2020-05-15 19:32:12 +0000
+date:       2020-05-15 15:32:12 -0400
 permalink:  why_become_a_software_engineer
 ---
 
